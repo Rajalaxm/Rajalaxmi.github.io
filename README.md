@@ -1,4 +1,4 @@
-#SHAPEAI WEB DEV BOOTCAMP
+<b>#SHAPEAI WEB DEV BOOTCAMP</b>
 
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI </b>.
 
